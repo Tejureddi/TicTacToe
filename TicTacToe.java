@@ -31,8 +31,6 @@ public class TicTacToe {
       
     }
     
-    
-   
     /**
      * Getter method for current turn number
      * @return number of turns taken
@@ -42,8 +40,6 @@ public class TicTacToe {
     	 return turn;
     	
     }
-    
-    
     
    
    /**
