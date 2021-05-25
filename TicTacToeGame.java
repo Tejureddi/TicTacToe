@@ -6,7 +6,7 @@ public class TicTacToeGame
 {
     public static void main(String[] args)
     {
-    	final int MAX_TURNS = 4;
+    	final int MAX_TURNS = 9;
         Scanner input = new Scanner(System.in);
         TicTacToe board = new TicTacToe();
         int row = 0;
